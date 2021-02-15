@@ -1,5 +1,5 @@
 # i3 Rice
-#### Includes the dotfiles/configs for polybar, kitty terminal, and nighttab (along with wallpaper).
+#### Includes the dotfiles/configs for i3, polybar, kitty terminal, and nighttab (along with wallpaper).
 
 ---
 
