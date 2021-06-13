@@ -57,7 +57,7 @@ bindsym F12 exec --no-startup-id scrot -z
 exec --no-startup-id xfce4-power-manager
 
 # Notification Daemon
-exec --no-startup-id /usr/lib64/xfce4/notifyd/xfce4-notifyd
+exec --no-startup-id dunst
 
 # Background with Nitrogen
 exec --no-startup-id nitrogen --restore
